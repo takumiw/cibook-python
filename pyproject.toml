@@ -13,6 +13,8 @@ scipy = "^1.7.3"
 statsmodels = "^0.13.1"
 matplotlib = "^3.5.1"
 seaborn = "^0.11.2"
+rdata = "^0.6"
+lxml = "^4.7.1"
 
 [tool.poetry.dev-dependencies]
 
